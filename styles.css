@@ -1,0 +1,33 @@
+.ex {
+	border: 2px solid #5D6063;
+	box-sizing: border-box;
+	border-radius: 5px;
+	margin: 0.5em auto;
+	margin-left: 0.5em;
+	width: 800px;
+	text-align: center;
+	padding: 20px;
+	background-color: #5995DA;
+	display: inline-block;
+	color: #FFF;
+	
+}
+
+.ex1, .ex2, .ex3 {
+	display: inline-block;
+}
+
+.ex2 {
+	margin-left:20px;
+}
+
+.ex3 {
+	margin-left: 20px;
+}
+
+.descript1, .descript2, .descript3 {
+
+	font-style: italic;
+	text-transform: uppercase;
+
+}
